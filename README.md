@@ -17,26 +17,28 @@ To publish a page, go to settings within the repository, under options tab go to
 
 Part 2
 
-**Branch**
+**Branch** is a pat of the main code that is seperate from it to enable developers to make changes without affecting the repository
 
-**Clone**
+**Clone** is usually a version of the repository on github which is downloaded onto a local disk to make changes to the repository without creating merge conflicts
 
-**Commit**
+**Commit** records changes made to a branch
 
-**Fetch**
+**Fetch** is a term used when downloading commits from github repository to local repository
 
-**GIT**
+**GIT** Software used to track changes in files
 
-**Github**
+**Github** hosting site used to access collaborative files uploaded using git
 
-**Merge**
+**Merge** When an older version of the files are updated to reflect a change made by a user or collaborator
 
-**Merge Conflict**
+**Merge Conflict** When two or more changes are made to the same line
 
-**Push**
+**Push** Uploading a file to Github
 
-**Pull**
+**Pull** Downloading a filefrom github
 
-**Remote**
+**Remote** The ability to access a file or network from anywhere
 
-**Repository**
+**Repository** Where all files are uploaded, changes from each participant is uploaded
+
+References: https://docs.github.com/en
